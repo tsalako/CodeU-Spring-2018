@@ -51,7 +51,7 @@
       </ul>
         <h3>You may be thinking: "What's Okurrrt?"</h3>
 <h4>Okurrrt is the sound Cardi B makes when things are lit. You're welcome</h4>
-<iframe src="https://giphy.com/embed/3o751Yxe9UjX26BZbG" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-tonight-show-cardi-b-3o751Yxe9UjX26BZbG">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3o751Yxe9UjX26BZbG" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     </div>
   </div>
 </body>
