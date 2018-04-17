@@ -22,7 +22,7 @@
 <body>
 
   <nav>
-    <a id="navTitle" href="/">CodeU Chat App</a>
+    <a id="navTitle" href="/">Okurrrt Chat App</a>
     <a href="/conversations">Conversations</a>
     <% if(request.getSession().getAttribute("user") != null){ %>
       <a>Hello <%= request.getSession().getAttribute("user") %>!</a>
@@ -37,7 +37,7 @@
     <div
       style="width:75%; margin-left:auto; margin-right:auto; margin-top: 50px;">
 
-      <h1>CodeU Chat App</h1>
+      <h1>Okurrrt Chat App</h1>
       <h2>Welcome!</h2>
 
       <ul>
@@ -49,6 +49,9 @@
         <li>You can <a href="/testdata">load test data</a> to fill the site with
             example data.</li>
       </ul>
+        <h3>You may be thinking: "What's Okurrrt?"</h3>
+<h4>Okurrrt is the sound Cardi B makes when things are lit. You're welcome</h4>
+<iframe src="https://giphy.com/embed/3o751Yxe9UjX26BZbG" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-tonight-show-cardi-b-3o751Yxe9UjX26BZbG">via GIPHY</a></p>
     </div>
   </div>
 </body>
